@@ -1,0 +1,1 @@
+Using python to display user info in a mock bank account including name, email, balance and if it is positive or negative (which will incur a fee)
